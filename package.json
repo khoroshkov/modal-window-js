@@ -1,0 +1,22 @@
+{
+  "name": "modal-window",
+  "version": "1.0.0",
+  "description": "Modal window on JS. Practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khoroshkov/modal-window-js.git"
+  },
+  "author": "Nick Khoroshkov <nickolaykhoroshkov@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khoroshkov/modal-window-js/issues"
+  },
+  "homepage": "https://github.com/khoroshkov/modal-window-js#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  }
+}
